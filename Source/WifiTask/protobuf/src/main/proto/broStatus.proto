@@ -1,0 +1,6 @@
+syntax = "proto3";
+
+message BroStatus {
+  string message = 1;
+  int32 battery = 2;
+}

@@ -1,0 +1,3 @@
+include ':protobuf'
+include ':app'
+rootProject.name = "WifiTask"
